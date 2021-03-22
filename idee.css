@@ -1,0 +1,37 @@
+.h1 h1{
+	margin-left: 3% ;
+	font-family: cooper black;
+	padding: 10px;
+}
+.p1 p{
+	margin-left: 10% ;
+	font-size: 25px;
+	font-family: bahnschrisft;
+	color: white;
+}
+.p2 p{
+	margin-left: 10% ;
+	font-size: 25px;
+	font-family: bahnschrisft;
+	color: black;
+}
+.p3 p{
+	margin-left: 10% ;
+	font-size: 25px;
+	font-family: bahnschrisft;
+	color: white;
+}
+.p4 p{
+	margin-left: 10% ;
+	font-size: 20px;
+	font-family: bahnschrisft;
+	color: white;
+
+}
+.sponsor th{
+	border: 1px solid white;
+	background: white;
+	align-content: center;
+	padding-top: 30px;
+
+}
